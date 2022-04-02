@@ -1,0 +1,23 @@
+ul.header_link-container {
+    margin: 0;
+    padding: 4px;
+}
+ul.header_link-container li {
+    display: inline;
+    margin-right: 5px;
+    padding: 3px;
+}
+
+.header_lint-btn {
+    background: transparent;
+    border: none;
+}
+
+.disabled-link a{
+    color: #f15a24;
+    cursor: default;
+}
+
+.disabled-link a:hover {
+    color: #f15a24;
+}

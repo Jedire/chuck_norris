@@ -1,0 +1,52 @@
+.chuck-img__container {
+    text-align: center;
+}
+
+.jokes-container {
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    display: block;
+    font-size: 13px;
+    margin-bottom: 2em;
+    padding: 1em;
+    white-space: normal;
+}
+
+.get_joke-btn {
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    font-size: 13px;
+    margin-bottom: 2em;
+    padding: 2%;
+    white-space: normal;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.get_joke-select {
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    font-size: 13px;
+    margin-bottom: 2em;
+    padding: 2%;
+    white-space: normal;
+    height: 40px;
+}
+
+.jokes-category_container {
+    margin-top: 30px;
+}
+
+.add-to-favorite-img {
+    width: 15px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.jokes-value-container {
+    margin-top: 10px;
+}
+
+.jokes-value {
+    display: inline;
+}
